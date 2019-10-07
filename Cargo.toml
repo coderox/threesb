@@ -1,0 +1,8 @@
+[package]
+name = "threesb"
+version = "0.1.0"
+authors = ["Johan Lindfors <johan.lindfors@coderox.se>"]
+edition = "2018"
+
+[dependencies]
+three = "0.4.0"
